@@ -2,7 +2,7 @@
 # -*-coding:utf-8 -*-
 
 """
-# File       : test_torch_stepwise_0325_modified.py
+# File       : learn_stepwise_torch.py
 # Author     ：Yaxiong Ma
 # E-Mail    : mayaxiong@xidian.edu.cn
 # Create Time: 2024/3/25 10:04

@@ -1,7 +1,7 @@
 # -*-coding:utf-8 -*-
 
 """
-# File       : model_withtorch_stepwise_auto_modified_0325.py
+# File       : model_withtorch_stepwise.py
 # Author     ：Yaxiong Ma
 # E-Mail    : mayaxiong@xidian.edu.cn
 # Create Time: 2024/3/25 10:04
